@@ -9,7 +9,8 @@
 - .Net Framework 3.5 or above.
 
 ## Demand
-- In Unity scene, a large number of static models(example stones) spend lots of computer resource and hard to manage them in Unity Hierarchy. therefore, we hope that we can combine them to a model(Mesh).
+- In Unity scene, a large number of static models(example stones) spend lots of computer resource and
+  hard to manage them in Unity Hierarchy. therefore, we hope that we can combine them to a model(Mesh).
 
 ## Usage
 1. Find the menu item "Tool/Mesh Combiner" in Unity editor menu bar and click it or press key combination Alt+M to open the editor window.
@@ -18,10 +19,10 @@
 1. Click the "Combine" button to open the save new mesh dialog.
 1. Select a path and input a file name to the dialog and save.
 
-## Preview
-- Mesh Combiner
+## Source
 
-![Mesh Combiner](./Attachment/images/MeshCombiner.gif)
+- https://github.com/mogoson/MGS.MeshCombiner.
 
 ------
+
 Copyright © 2021 Mogoson.	mogoson@outlook.com
