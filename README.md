@@ -18,10 +18,5 @@
 1. Click the "Combine" button to open the save new mesh dialog.
 1. Select a path and input a file name to the dialog and save.
 
-## Preview
-- Mesh Combiner
-
-![Mesh Combiner](./Attachment/images/MeshCombiner.gif)
-
 ------
 Copyright © 2021 Mogoson.	mogoson@outlook.com
