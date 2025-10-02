@@ -1,0 +1,16 @@
+{
+    "name": "com.mgs.meshcombiner",
+    "version": "1.0.0",
+    "displayName": "Mesh Combiner",
+    "description": "Unity mesh combiner.",
+    "unity": "2021.3",
+    "keywords": [
+        "mesh",
+        "combiner"
+    ],
+    "author": {
+        "name": "Mogoson",
+        "email": "mogoson@outlook.com",
+        "url": "https://github.com/mogoson"
+    }
+}
